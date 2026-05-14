@@ -1,0 +1,22 @@
+<svg width="320" height="100" viewBox="0 0 320 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pinGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2E8B57"/>
+      <stop offset="100%" stop-color="#2098EE"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2E8B57"/>
+      <stop offset="100%" stop-color="#1E3A5F"/>
+    </linearGradient>
+  </defs>
+  <g filter="url(#shadow)">
+    <path d="M52 7C30.3269 7 12 25.3269 12 47C12 69.2761 30.3269 88 52 88C73.6731 88 92 69.2761 92 47C92 25.3269 73.6731 7 52 7ZM52 77C37.1935 77 25 64.8065 25 50C25 35.1935 37.1935 23 52 23C66.8065 23 79 35.1935 79 50C79 64.8065 66.8065 77 52 77Z" fill="url(#pinGradient)"/>
+    <path d="M52 0C23.3858 0 0 23.3858 0 52C0 81.0147 45.3862 117.182 50.5037 120.996C51.8155 121.958 53.8748 121.958 55.1866 120.996C60.3025 117.18 105.688 81.0147 105.688 52C105.688 23.3858 82.3022 0 52 0Z" fill="url(#pinGradient)" opacity="0.12"/>
+  </g>
+  <path d="M40 44H64V72H40V44Z" fill="white"/>
+  <path d="M47 44V36H57V44H47Z" fill="white"/>
+  <path d="M44 36L52 28L60 36H44Z" fill="white"/>
+  <path d="M33 72H71V76H33V72Z" fill="white"/>
+  <path d="M42 52H62V58H42V52Z" fill="#1E3A5F"/>
+  <text x="110" y="52" fill="url(#textGradient)" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="700">GeoPalmar</text>
+</svg>
